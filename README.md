@@ -1,3 +1,3 @@
 # Calculator
-## Calculator provides simple functions in a beautifully designed app.
+ Calculator provides simple functions in a beautifully designed app.
 
